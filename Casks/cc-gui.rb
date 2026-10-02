@@ -1,6 +1,6 @@
 cask "cc-gui" do
-  version "0.13.0"
-  sha256 "496832e1c7fab251e9801192d3ac2c81cebbfee2e7cd28b716318b677b39e11b"
+  version "0.14.0"
+  sha256 "7304d42750a89720d74c4d070bf52fc65e4cb5923db6da0cb212e267dd75a8a0"
 
   url "https://github.com/Ed-Barnes937/CC-GUI/releases/download/v#{version}/CC-GUI_#{version}_aarch64.dmg",
       verified: "github.com/Ed-Barnes937/CC-GUI/"
